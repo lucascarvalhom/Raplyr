@@ -1,0 +1,13 @@
+# Automação de formulários Microsoft - Raplyr
+
+# Biblioteca principal de automação de navegadores
+selenium==4.25.0
+
+# Interface gráfica simples (janela de entrada)
+tkinter>=0.1.0,<1.0.0
+
+# Manipulação de logs e utilitários de tempo (opcional, incluído no Python)
+# logging e datetime já estão no core do Python, sem necessidade de instalação
+
+# Dependência opcional para empacotamento do executável
+pyinstaller>=6.10.0,<7.0.0
