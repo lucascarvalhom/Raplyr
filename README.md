@@ -1,2 +1,2 @@
-# GoogleAI
-Respository for Google AI Studio.
+# Raplyr
+Respository for Raplyr - Preenchimento automático de formulários Microsoft, rápido, simples e configurável.
